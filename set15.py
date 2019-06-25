@@ -1,9 +1,9 @@
-first=int(input())
-second=int(input())
-third=int(input())
-if(first>=second and first>=third):
-  print(first)
-elif(second>=first and second>=third):
-  print(second)
+first1=int(input())
+second2=int(input())
+third3=int(input())
+if(first1>=second2 and first1>=third3):
+  print(first1)
+elif(second2>=first1 and second2>=third3):
+  print(second2)
 else:
-  print(third)
+  print(third3)
