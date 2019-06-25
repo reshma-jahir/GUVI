@@ -1,9 +1,7 @@
-first1=int(input())
-second2=int(input())
-third3=int(input())
-if(first1>=second2 and first1>=third3):
+fir,sec,thi=map(int,input().split())
+if(fir>=sec and fir>=thi):
   print(first1)
-elif(second2>=first1 and second2>=third3):
-  print(second2)
+elif(sec>=thi):
+  print(sec)
 else:
-  print(third3)
+  print(thi)
