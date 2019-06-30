@@ -1,0 +1,11 @@
+ac=int(input())
+tit=0
+foot=ac
+while(foot>0):
+    feet=foot%10
+    tit=tit+(feet**3)
+    foot=foot/10
+if(ac==tit):
+    print("yes")
+else:
+    print("no")
