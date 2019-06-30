@@ -1,5 +1,5 @@
-ex,oi=map(int,input().split())
-for i in range(ex+1,oi):
+ex,oil=map(int,input().split())
+for i in range(ex+1,oil):
     finally=i
     fine=0
     while(i>0):
