@@ -1,0 +1,5 @@
+che=int(input())
+vid=list(map(int,input().split()[:che]))
+vid.sort()
+quet=int((len(vid))/2)
+print(vid[quet])
