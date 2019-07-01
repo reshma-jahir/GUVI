@@ -1,5 +1,5 @@
-check=input()
-if check.isdigit():
+cher=input()
+if cher.isdigit():
   print("Yes")
 else:
   print("No")
