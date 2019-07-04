@@ -5,4 +5,4 @@ while(Names>0):
     i=Names%10
     sar=sar+i
     Names=Names//10
-print(s)
+print(sar)
