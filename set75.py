@@ -1,0 +1,2 @@
+strgs=input()
+print(strgs)
