@@ -1,7 +1,7 @@
     
-number=int(input())
+ber=int(input())
 for i in range(2,n):
-    if number%i==0:
+    if ber%i==0:
         print("no")
         break
 else:
