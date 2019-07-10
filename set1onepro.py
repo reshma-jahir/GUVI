@@ -8,4 +8,4 @@ x= []
 for _ in range(0,mem):
     x.append(input())
 x.sort()
-print(l(x[0],x[mem-1]))
+print(lus(x[0],x[mem-1]))
