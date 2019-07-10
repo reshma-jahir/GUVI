@@ -1,4 +1,4 @@
-num,kum=input().strip().split(" ")
+num,kit=input().strip().split(" ")
 kit=int(kit)
 i=0;
 while i<len(num)-1 and kit:
@@ -9,5 +9,5 @@ while i<len(num)-1 and kit:
 			i-=1
 	else:
 		i+=1
-rey=num[:len(num)-k]
+rey=num[:len(num)-kit]
 print(rey)
