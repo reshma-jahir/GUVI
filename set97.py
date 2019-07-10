@@ -4,7 +4,7 @@ tt=[]
 gcd=1
 for i in range(1,pp+1):
     if(pp%i==0):
-        nn.append(i)
+        nnn.append(i)
 for j in range(1,mm+1):
     if(mm%j==0):
         tt.append(j)
