@@ -2,7 +2,7 @@ import math
 chat,chot=map(int,input().split())
 ohot=[]
 gaat=list(map(int,input().split()))
-for p in range(0,cho):
+for p in range(0,chot):
     lovet,hutt=map(int,input().split())
     ohot.append([lovet,hutt])
 for p in ohot:
