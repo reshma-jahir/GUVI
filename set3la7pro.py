@@ -8,7 +8,7 @@ for i in range(Aa):
     qr.append(x)
 while Bb>=0 and len(qr)>0:
     mindex=qr.index(max(qr))
-    if Bb>=C[mindex]:
+    if Bb>=Cc[mindex]:
         ar=ar+pr[mindex]
         Bb=Bb-Cc[mindex]
     Cc.pop(mindex)
