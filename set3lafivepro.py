@@ -8,6 +8,6 @@ while(i<len(level)-1):
         count+=1
         i+=1
     if(count>maximum):
-        maximum=c
+        maximum=count
     i+=1
 print(maximum+1)
