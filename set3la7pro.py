@@ -4,7 +4,7 @@ pr=list(map(int,input().split()))
 qr=[]
 ar=0
 for i in range(Aa):
-    x=pr[i]/C[i]
+    x=pr[i]/Cc[i]
     qr.append(x)
 while Bb>=0 and len(qr)>0:
     mindex=qr.index(max(qr))
