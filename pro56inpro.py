@@ -8,4 +8,4 @@ for i in l:
     if q<=0:
         break  
 print(c)
-© 2019 GitHub, Inc.
+
